@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+	<row color="#12263A">
+ 	   <button text="إفتح البرنامج الخاص بالعرض"  ontap="openResolume"/>
+	</row>	
+	<row color="#FA7921">
+   	 <button text="إبدأ العرض"  ontap="Whole"  />
+	</row>
+	<row color="#779CAB">
+   	 <button text="أغلق العرض" ontap="CloseResolume"  />
+	</row>
+</layout>
