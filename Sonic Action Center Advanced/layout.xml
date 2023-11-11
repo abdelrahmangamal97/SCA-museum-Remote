@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+	<row color="#25283D">
+ 	   <button text="إفتح البرنامج الخاص بالعرض" ontap="openResolume" />
+	</row>
+	<row>
+		<button text="أظهر المشهد الكامل" ontap="whole" color="#EF8275" />
+	</row>
+	<row color="#658E9C">
+		<button text="مشهد التطهير" ontap="Cleaning" />
+		<button text="مشهد الحفر" ontap="Diging" />
+	</row>
+	<row color="#81B29A">
+		<button text="التطوير الجنوبي" ontap="North" />
+		<button text="تطوير البحيرات المرة الصغرى" ontap="MorraDubling" />
+	</row>
+	<row color="#303A2B">
+   		<button text="يافطات المناطق" ontap="Lables"  />
+		<button text="ترقيم الكيلومترات" ontap="kmplates"  />
+	</row>
+	
+	<row color="#2A324B">
+   	 <button text="أغلق العرض" ontap="CloseResolume"  />
+	</row>
+</layout>
